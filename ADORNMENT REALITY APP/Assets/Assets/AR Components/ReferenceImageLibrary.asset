@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5529835339271945470
+  m_GuidHigh: 2412760533972626345
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5197505251362416894
+      m_GuidHigh: 10943344106555071664
+    m_SerializedTextureGuid:
+      m_GuidLow: 8936368787998095901
+      m_GuidHigh: 3293292725297774282
+    m_Size: {x: 0.3, y: 0.19060151}
+    m_SpecifySize: 1
+    m_Name: SWAMP
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4684543756087091985
+      m_GuidHigh: 9128723481816024747
+    m_SerializedTextureGuid:
+      m_GuidLow: 9868557484744493829
+      m_GuidHigh: 1641482497835328329
+    m_Size: {x: 0.3, y: 0.25393474}
+    m_SpecifySize: 1
+    m_Name: KOALA
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4805481226963105629
+      m_GuidHigh: 6725661045734529700
+    m_SerializedTextureGuid:
+      m_GuidLow: 1140781244314421859
+      m_GuidHigh: 6574491960829037818
+    m_Size: {x: 0.3, y: 0.27209303}
+    m_SpecifySize: 1
+    m_Name: ENYCE
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5189530817650461148
+      m_GuidHigh: 15790940714889641398
+    m_SerializedTextureGuid:
+      m_GuidLow: 2842969167674691522
+      m_GuidHigh: 11855049473846471915
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: L_01
+    m_Texture: {fileID: 0}

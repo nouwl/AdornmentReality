@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 45040240e7c4c9b4291e69fa7aa394c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arSessionComponent: {instanceID: 0}
+  - arStreamingComponent: {instanceID: 0}
+  - arPerformanceStatsComponent: {instanceID: 0}
+  - arEditor_findObjComponent: {instanceID: 0}
+  - arEditor_SelectedObject: {instanceID: 0}
+  - headerImg: {fileID: 2800000, guid: dedb356bc6c7eef46a27411771f0ef07, type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 101dd4212981e9649a33d80030076098, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
